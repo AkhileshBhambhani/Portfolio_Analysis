@@ -24,5 +24,5 @@ Output: 1) The script generates Top 5 portfolios with their Returns, Std Deviati
         2) Multiple risk measures of the portfolio
         3) Grpahical Comparision of Portfolio Returns with Benchmark Returns with wealth index on the Y Axis.
 
-EndNote: The Project is in pre-alpha stage, there may be bugs here and there.
+EndNote: The Project is in pre-alpha stage, there may be bugs here and there. Script uses default source (Yahoo Finance for now) assigned by quantmod package to fetch the scrip data. Security may or may not be available on the source used.
 
