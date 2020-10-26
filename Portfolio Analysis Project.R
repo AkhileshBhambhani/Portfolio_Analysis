@@ -1,13 +1,14 @@
 #Portfolio Analysis
 
 #Installing the Needed Packages
-install.packages("quantmod")
-install.packages("ggplot2")
-install.packages("PerformanceAnalytics")
-install.packages("PortfolioAnalytics")
-install.packages("dplyr")
-install.packages("stringr")
-install.packages("ggthemes")
+install.packages("quantmod", dependencies = T)
+install.packages("ggplot2", dependencies = T)
+install.packages("PerformanceAnalytics", dependencies = T)
+install.packages("PortfolioAnalytics", dependencies = T)
+install.packages("dplyr", dependencies = T)
+install.packages("stringr", dependencies = T)
+install.packages("ggthemes", dependencies = T)
+
 
 #Loading Installed packages 
 
